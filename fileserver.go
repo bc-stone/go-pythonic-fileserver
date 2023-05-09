@@ -2,7 +2,7 @@
 A Pythonic-style HTTP file server.
 By default, the server listens on all IP addresses present on the
 system ('0.0.0.0') and is bound to port 8000.  The current directory
-('.') is shared, relative to the location of 'webserver.go' or the
+('.') is shared, relative to the location of 'fileserver.go' or the
 binary if it is compiled.
 
 Usage:
